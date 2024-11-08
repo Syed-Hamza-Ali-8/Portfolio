@@ -25,7 +25,7 @@ const Home = () => {
             <div className="mt-8 flex flex-col md:flex-row justify-center items-center">
                 <div className="w-64 h-64 md:w-96 md:h-96 relative mb-6 md:mb-0">
                     <Image
-                        src="/hamza.jfif"
+                        src="/hamza.png"
                         alt="Profile Picture"
                         layout="fill"
                         objectFit="cover"

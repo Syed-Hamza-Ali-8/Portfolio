@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
 
@@ -18,7 +18,7 @@ const Home = () => {
                     Syed Hamza Ali
                 </h1>
                 <p className="mt-4 text-xl md:text-2xl text-gray-400 text-justify">
-                    I'm a passionate web developer creating amazing web applications.
+                    I&apos;m a passionate web developer creating amazing web applications.
                 </p>
             </div>
 
@@ -37,7 +37,7 @@ const Home = () => {
                     <p className="text-lg md:text-xl text-gray-400">
                         I specialize in front-end development and love creating responsive, interactive websites.
                         <br /> <br />
-                        Explore my projects, skills, and get in touch if you're interested in collaborating!
+                        Explore my projects, skills, and get in touch if you&apos;re interested in collaborating!
                     </p>
                 </div>
             </div>

@@ -5,7 +5,7 @@ const Projects = () => {
         {
             title: 'Bed Sheet Website',
             description: 'This is an e-commerce website for bed sheets, built using React, React Router DOM, and Material-UI. It includes features like product listings, cart functionality, and a responsive design.',
-            image: '/bedsheet-img.jfif',
+            image: '/bedsheet.png',
             link: 'https://bedsheet-website-19oj.vercel.app/',
         },
         {

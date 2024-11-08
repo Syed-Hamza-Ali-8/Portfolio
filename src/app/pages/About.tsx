@@ -29,7 +29,7 @@ const About = () => {
                 <div className="mt-12 flex justify-center">
                     <div className="w-64 h-64 relative transition-transform duration-300 ease-in-out transform hover:scale-110 hover:rotate-3">
                         <Image
-                            src="/about-img.jfif"
+                            src="/about_img.png"
                             alt="Profile Image"
                             width={250}
                             height={250}
